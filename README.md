@@ -1,5 +1,5 @@
 
-# Howdy! I'm Sreya Gonugunta
+# Hey! I'm Sreya Gonugunta
 
 ### UC Berkeley '25 B.A. Political Science & B.A. Data Science
 
